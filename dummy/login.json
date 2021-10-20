@@ -1,3 +1,4 @@
 {
-    "state" : true
+    "state" : true,
+    "token" : "testToken1234"
 }
