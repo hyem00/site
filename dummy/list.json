@@ -1,0 +1,15 @@
+{
+    "wr_id"      : "wr_id",
+    "wr_num"     : "wr_num",
+    "wr_reply"   : "0",
+    "wr_good"    : "0",
+    "wr_nogood"  : "0",
+    "wr_comment" : "0",
+    "ca_name"    : "카테고리",
+    "wr_option"  : "",
+    "wr_subject" : "제목제목제목",
+    "wr_content" : "내용내용내용",
+    "wr_link1"   : "kakao.com",
+    "wr_link2"   : "nvaer.com",
+    "wr_file"    : ""
+}

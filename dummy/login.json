@@ -1,4 +1,15 @@
 {
     "state" : true,
-    "token" : "testToken1234"
+    "token" : "testToken1234",
+    "info"  : {
+        "user_dvs"      : "4",
+        "user_name"     : "관리자",
+        "user_id"       : "super",
+        "user_birth"    : "1995-01-03",
+        "user_mail"     : "colley@kakao.com",
+        "user_phone"    : "010-3436-3622",
+        "user_nick"     : "관리자",
+        "user_profile"  : "",
+        "reg_date"      : "1995-01-03"
+    }
 }
